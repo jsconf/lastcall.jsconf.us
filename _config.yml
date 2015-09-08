@@ -1,0 +1,8 @@
+name: JSConf US Mic Drop
+description: "JSConf, One Last Time."
+url: http://2015.jsconf.us
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+markdown: redcarpet
+highlighter: pygments
