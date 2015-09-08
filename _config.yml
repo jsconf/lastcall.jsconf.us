@@ -2,7 +2,7 @@ name: JSConf US Last Call
 description: "JSConf, One Last Time."
 shortname: JSConf
 url: http://lastcall.jsconf.us
-tickets: http://tickets.jsconf.us
+tickets: https://ti.to/jsconf-us/last-call
 cfp: https://docs.google.com/a/jsconf.com/forms/d/1tN_QWHAUA55_qD53tDw28jgNiyss6k_3Bc9ekaoMwbY/viewform
 exclude:
   - README.md
