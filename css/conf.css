@@ -264,7 +264,6 @@ padding-left: 1em;
 }
 
 .socialmedia {
-
 font-size: 125%;
 }
 
@@ -280,3 +279,18 @@ font-size: 125%;
 .btn-primary { background-color: #2e2e2c; border-color: #333; font-weight:700}
 .btn-primary:hover{ background-color: #cc0000;}
 #content { padding-top:20px}
+
+#sadnote { margin: 0px 0px 40px; text-align:center}
+
+
+.toblack {
+    background-color: #2e2e2c !important;
+    color: #2e2e2c !important;
+    border-color: #2e2e2c !important;
+    -webkit-transition: background 10s ease-in;
+    -moz-transition: background 10s ease-in;
+    -ms-transition: background 10s ease-in;
+    -o-transition: background 10s ease-in;
+    transition: background 10s ease-in;
+
+}
