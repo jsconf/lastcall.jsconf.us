@@ -1,0 +1,282 @@
+- firstname: Earle  
+  lastname: Castledine
+  visible: true
+  smurl: http://twitter.com/mrspeaker
+  smtype: twitter
+  smhandle: mrspeaker
+  title: "Painting by Functions"
+  body: >
+    An evolutionary tale, beginning at the birth of the original graphics APIs - caught between the functional and imperative worlds. Low level, and difficult to learn, but lighting-fast and capable of spectacular results.
+
+    You'll see:
+    * The original, horribly stateful, OpenGL API
+    * ...and the GLSL shaders that run on top of it: functional, and powerful, and often beautiful.
+
+    OpenGL then spawned its JavaScript-enabled offspring, WebGL: impressive, but built on an arcane and unwieldy paradigm.
+    It's available in all modern browsers - desktop and mobile - yet lies mostly dormant thanks to its stateful and scary API.
+
+    But hark! The slow but unceasing rise of functional and reactive programming is the missing link - transforming WebGL into a slick and user-friendly powerhouse.
+
+    You'll see:
+    * the stack-gl manifesto (and its core modules)
+    * gl-react and gl-react-native: adding stunning effects in a declarative manner
+    * UI widgets and components that are not possible with HTML5 Canvas and friends.
+    * ...all while wrangling it all with Rx.js streams.
+  bio:
+
+- firstname: Amy 
+  lastname: Cheng
+  visible: true
+  smurl: http://twitter.com/am3thyst
+  smtype: twitter
+  smhandle: am3thyst
+  title: "Building Your Own Internet of Things: How to Connect All of Your Stuff to the Interwebs"
+  body: >
+    There are two prevailing attitudes towards the future of the Internet of Things. It will be awesome or it will be terrible. Either our devices will accommodate us more and more, or instead they’ll reveal all of our secrets to the their corporate overlords. This talk will help the audience inch us all closer to an awesome future by enabling them to build their own Internet-connected devices or at the very least understand enough about existing IoT products to maintain a critical stance.
+
+    The audience will learn how to use JavaScript, off-the-shelf hardware, and a bit of tape to connect everything they own to the Internet, things like t-shirts and dogs.
+
+    I will be using an art piece I made, Plant-Bot, as a jumping off point. Plant-bot is a needy house plant that can only talk to people via text message (it doesn't have ears or a mouth), in order to get what it wants (often water). Using Plant-bot as an example, the audience will learn the basics of adding "senses" to their objects, a connection to the Web, and a way for the object to interact with its surroundings.
+  bio: >
+    The two things I did when I finally got access to the Internet were: explore the seedy underbelly of the internet (2600 usenet boards) and create two fan-sites, one for Star Wars (on Geocities), one for Spider-man (on Tripod).
+ 
+     I’ve stopped visiting Usenet a long time ago but I’m still making websites. I am currently web developer for the Brooklyn Museum in New York City. When I’m not the Museum, I’m making art with code and microcontrollers.
+
+- firstname: Lin 
+  lastname: Clark
+  visible: true
+  smurl: http://twitter.com/linclark
+  smtype: twitter
+  smhandle: linclark
+  title: "A cartoon guide to the wilds of React data handling"
+  body: >
+    There's a lot of confusion around the three main patterns or libraries for handling data in React applications: Flux, Redux, and Relay. People don't really understand how they work and how they relate to each other.  
+
+    This talk uses cartoons to build metaphors. These metaphors help in reasoning about the different patterns and the way data flows through them.
+  bio: >
+    Lin Clark is a developer and code cartoonist; she stuffs her head full of coding minutiae and then turns it into cartoons for @codecartoons. Her current project is a book, A Cartoon Guide to React.js. In past lives she has been npm's dev star, a Drupal core module maintainer, and a contributor to many other projects. She spends her spare time futzing with new technologies and making games with animated stick figures.
+    
+- firstname: Patricia 
+  lastname: Garcia
+  visible: true
+  smurl: http://twitter.com/patggs
+  smtype: twitter
+  smhandle: patggs
+  title: "Good Tech for Hard Places: Fighting Ebola with Javascript Offline Apps"
+  body: >
+    On 23rd July 2014, the first case of Ebola was reported in Nigeria, home to a small NGO working at the intersection of tech and public health. By then over 1000 cases had been reported in Guinea, Sierra Leone and Liberia. This is a story of how we use JavaScript to fight the Ebola outbreak. It’s also a story of building good tech for hard places, where a stable internet connection is rare and emergencies are real. There are a lot of awesome technologies (e.g. CouchDB and PouchDB) out there to help you build offline applications. There is also no shortage of beginner level online tutorials to show you how to do a quick and nice first prototype, but as in any new field there is not so much documentation available to help you solve the problems you’ll find when deploying your offline applications to be used in the “real” world. This talk will present some of these problems as well as the solutions we came up with, including some open source tools developed by ourselves.
+  bio: >
+    Patricia is a front-end developer, Hoodie contributor and pyLadies Berlin co-organizer. She loves working on projects that make the world abetter place, teaching tech to beginners, traveling and living in different places. She has been moving a lot since 2005.
+
+- firstname: Jane
+  lastname: Kim
+  visible: false
+  smurl: http://twitter.com/janecakemaster
+  smtype: twitter
+  smhandle: janecakemaster
+  title: ""
+  body: >
+    
+  bio: >
+    
+- firstname: Jan 
+  lastname: Lehnardt
+  visible: true
+  smurl: http://twitter.com/janl
+  smtype: twitter
+  smhandle: janl
+  title: "JSConf History"
+  body: >
+    I’d like to recap the history of JSConf and all the events it helped spawn since its inception by Chris and Laura in 2009. I plan to solicit quotes and soundbites from JSConfs & Familty-events around the work that reflect on the influence of JSConf US and the subsequent success of the local conferences. Expect teary moments.
+
+    I realise this is a bit navel-gaze-y, but I strongly believe that this shouldn’t be missed at Last Call. If I get a choice, I’d like to do this early in the line-up, so it can be a backdrop for the whole event. Could also work as closing, unless you have planned something else there.
+    
+  bio: >
+    While chatting with Chris on instant messaging (this was before everyone was on Twitter) at 3am (Berlin time) in 2009, he confided in me that JSConf tickets were not selling well. In a mix of sleepy haze and trying to encourage a friend, I said “If you pull this off, I’ll take it to Europe”.
+ 
+    A few months later, at the closing notes of the sold-out, first ever JSConf, having forgotten everything about the late-night conversation Chris asks me to stand up, while telling the audience that I promised to take JSConf to Europe.
+ 
+    This year, we held JSConf EU for the 7th year in a row and it is one of my favourite things in the world <3
+     
+- firstname: Martin 
+  lastname: Naumann
+  visible: true
+  smurl: http://twitter.com/g33konaut
+  smtype: twitter
+  smhandle: g33konaut
+  title: "Multiplayer WebVR - Virtual Reality using Oculus Rift and Google Cardboard and WebRTC"
+  body: >
+    Virtual Reality using Oculus Rift and Google Cardboard and WebRTC, let's do this!
+  bio: >
+    I am pretty good at humaning and computering. So I decided to use my computering to help kids in trouble to, well, get outta trouble. Their unforgettable smiles made me smile, too.
+    Love that stuff <3
+    
+- firstname: Matthew 
+  lastname: Podwysocki
+  visible: true
+  smurl: http://twitter.com/mattpodwysocki
+  smtype: twitter
+  smhandle: mattpodwysocki
+  title: "Change the World With the Peer Web and Thali"
+  body: >
+    How we can use JavaScript on our devices such as phones to change the world. From enabling those who don't have reliable internet or phone service to still be able to communicate, to protecting those in danger and protecting their identity.  This all can be accomplished with the Thali Project, bringing back the peer web with our devices.
+  bio: >
+    Matthew Podwysocki is a Principal Software Engineer and self-described Open Sourcerer. He currently works on the DX/TED team with a focus on reactive programming at all scales, the Internet of Things, and improving technical education for our kids.
+
+- firstname: Aaron 
+  lastname: Quint
+  visible: true
+  smurl: http://twitter.com/aq
+  smtype: twitter
+  smhandle: aq
+  title: "5 Years of Bacon: Every single thing I've learned since JSConf 2010"
+  body: >
+    I don't want to just reprise the "BACON" talk - I'd like to talk about everything I've learned in the past 5 years (which is a lot) and includes insights on running and growing a team, starting a family, going deep into passions and more. 
+  bio: >
+    After speaking at JS Conf 2010, almost 2 years later I was at a party that was mostly not tech people (friends from HS and college) at a bar and this guy locked eyes with me from across the room:
+ 
+     BACON GUY!!!! 
+ 
+     He yelled. Yup. That's me. Bacon Guy.
+
+- firstname: Charlie 
+  lastname: Robbins
+  visible: true
+  smurl: http://twitter.com/indexzero
+  smtype: twitter
+  smhandle: indexzero
+  title: "JSConf changed my life"
+  body: >
+    I'm going to talk about how JSConf changed my life, and changes the life of those who I meet. When I first went to JSConf I didn't even go to JSConf. I went to ScurvyConf in 2010 and it inspired me. You can check the WHOIS for nodejitsu.com and you can see that it was registered on April 19th, 2010, just a day after the event. 
+
+    Over the years JSConf continued to inspire me so much that I started EmpireJS and now EmpireNode. These events themselves have spawned other amazing stories.
+  bio: >
+    Charlie is a Director of Engineering at GoDaddy where he is leading convergence around JavaScript and Node.js across several products including Website Builder. Charlie was previously the founder and CEO of Nodejitsu (acquired by GoDaddy in 2015). An open source enthusiast and community builder, he is the author of many popular Node libraries, the creator of the EmpireJS and EmpireNode conferences in New York City, and an advisor to several technology startups. Charlie is a graduate of McGill and holds a Master's degree from Columbia University.
+
+- firstname: Jed 
+  lastname: Schmidt
+  visible: true
+  smurl: http://twitter.com/jedschmidt
+  smtype: twitter
+  smhandle: jedschmidt
+  title: "Declarative Web App Compiler"
+  body: >
+    I'm going to take the current trends in client frameworks to their logical extreme. We'll get rid of async and mutability entirely by creating a compiler that takes a single digraph representing every possible DOM state, and returns an HTML document with all the CSS, HTML, and JS needed to accomplish the states you've defined.
+  bio: >
+    Jed is a JavaScript developer and recovering Japanese translator based out of Brooklyn, NYC. When he's not geeking out on the mobile web at UNIQLO, he enjoys running BrooklynJS and singing tight barbershop harmonies.
+
+- firstname: Pam 
+  lastname: Selle
+  visible: true
+  smurl: http://twitter.com/pamasaur
+  smtype: twitter
+  smhandle: pamasaur
+  title: "OMG Streams!"
+  body: >
+    There’s a data structure that essentially makes you a wizard and that data structure is streams. In this talk, you’ll learn more about the best data structure you didn’t know enough about and how to leverage its power in JavaScript. Expect to learn about IO streams, generators, and the latest developments in the awesome awesomeness that is streams.
+  bio: >
+    Pam Selle is a software engineer at Comcast, published author, and public speaker. She writes mostly weekly on her blog thewebivore.com and podcasts with Turing-Incomplete, turing.cool. She also organizes Philadelphia's largest JavaScript user group and the 2014 and 2015 editions of LibertyJS, a regional JavaScript conference.
+
+- firstname: Remy 
+  lastname: Sharp
+  visible: true
+  smurl: http://twitter.com/janecakemaster
+  smtype: twitter
+  smhandle: janecakemaster
+  title: "The toxic side of free. Or: how I lost the love for my side project"
+  body: >
+    This is a 5 part story about (my side project and attempted full time project in 2014) "JS Bin" and the abuse that it's suffered over the last 7 years of being an open project. The stories include tales of spam, abuse from registered users and the impact on personal life, dealing with the process of taking money, and the pain (oh...the pain) and finally police involvement (from a casual planned DDoS, child pornography and terrorism).
+
+    In each section, I've tried to end on a positive note (but it's not terribly technical) even though the actual content is fairly negative and dark at times. It's an extremely personal story, but there's way too much "hey, my project is awesome, who want's a high-five?!" - this is very much the antidote!
+  bio: >
+    [Remy][1] is the founder and curator of [Full Frontal][2], the UK based JavaScript conference. He also ran [jQuery for Designers][3], co-authored [Introducing HTML5][4] (adding all the JavaScripty bits) and likes to grumble on Twitter.
+  
+    Whilst he's not [writing articles][6] or running and [speaking at conferences][7], he runs his own development and training company in Brighton called [Left Logic][8]. And he built these too: [Confwall][5], [jsbin.com][9], [html5demos.com][10], [remote-tilt.com][11], [responsivepx.com][12], [nodemon][13], [inliner][14], [mit-license.org][15], [snapbird.org][16], [5 minute fork][17] and [jsconsole.com][18]!
+
+     [1]: http://twitter.com/rem
+     [2]: http://full-frontal.org
+     [3]: http://jqueryfordesigners.com
+     [4]: http://introducinghtml5.com
+     [5]: https://confwall.com
+     [6]: http://remysharp.com
+     [7]: http://lanyrd.com/people/rem/
+     [8]: http://leftlogic.com
+     [9]: http://jsbin.com
+     [10]: http://html5demos.com
+     [11]: http://remote-tilt.com
+     [12]: http://responsivepx.com
+     [13]: https://github.com/remy/nodemon
+     [14]: https://github.com/remy/inliner
+     [15]: http://mit-license.org
+     [16]: http://snapbird.org
+     [17]: http://5minfork.com
+     [18]: http://jsconsole.com
+     
+- firstname: Irina 
+  lastname: Shestak
+  visible: true
+  smurl: http://twitter.com/_lrlna
+  smtype: twitter
+  smhandle: _lrlna
+  title: "Building Interactive npm Command Line Modules -- All The Things"
+  body: >
+    Here you are coding away, when you realize you're in desperate need of a quick shell script to get your project cleaned up. You're standing at a fork in the road: Bash or Node? You choose the road less travelled by (for some reason) -- Node. I congratulate you on this decision. You've written it, you may have published it, and it certainly works. But what now? Is this all a command line module Node is good for: a project clean up and some data manipulation?
+
+    Let's take it a step further. Let's make a command line module that's more than just your compiling script. I am, of course, talking about making it more interactive.
+
+    In this talk I want to take you on an adventure that will require cunning, bravery, and maybe some magic. We will walk through obtaining and parsing data, using Node's process functions, and finally improving the module's user experience.
+
+  bio: >
+    Irina is a node + javascript developer and enthusiast. Aside from enthusiasting about javascript during the workday, she instructs with Ladies Learning Code in Vancouver and explores the great outdoors (i.e. the Rockies).
+    
+- firstname: Francisco 
+  lastname: Tolmasky
+  visible: true
+  smurl: http://twitter.com/tolmasky
+  smtype: twitter
+  smhandle: tolmasky
+  title: "Transpiling in JS"
+  body: >
+    When we presented at JSConf we were the first (only?) language to be transpiled to JS (objj), now it has become the defacto way to ship cutting edge JS with ES6/7. At tonicdev.com we actually implement a number of really interesting code transformations to enable our nodes time traveling feature ( http://blog.tonicdev.com/2015/09/10/time-traveling-in-node.js-notebooks.html ), and it is intimately tied to the new async/await in ES7.
+
+    I'd love to discuss the tricks and difficulties in creating no-side-effect transpilations (can't create new variables in the transpiled code because they'd be observable if the user tries to eval!), "just in time" hoisting, etc.
+  bio:
+      
+- firstname: Rachel 
+  lastname: White
+  visible: true
+  smurl: http://twitter.com/ohhoe
+  smtype: twitter
+  smhandle: ohhoe
+  title: "Internet of Cats"
+  body: >
+    Ever lose out on a good night's rest because your pesky cats keep waking you up at 4am for food? Rachel has. Many times. For her first project using node, socket.io, microcontrollers, and johnny-five, Rachel built a web-based feeder that delivers tasty cat chow on a configurable schedule or when triggered remotely. She'll walk you through her learning process with utilizing new tech for the first time and get you excited about trying your own projects so you can take the first steps to putting your work out and contributing to the open source community.
+  bio: >
+    I was looking for a new job this past Summer while at JSConf and met some wonderful people that were actively recruiting. On the last night of the conference while hanging out with great people in the hot tub one of my future coworkers came up to me in the hot tub and let me know that he had already talked to his manager about me and they were interested. Right there, on the spot in the wonderful Amelia Island Plantation Hot Tub I had my first interview for the Front End Dev position I've now been in since the Summer. ✨Great things happen at JSConf in a completely unconventional way ✨
+    
+
+- firstname: Dustin Long & Andrew Reitano
+  lastname: 
+  visible: false
+  smurl: 
+  smtype: 
+  smhandle: 
+  title: "Controlling the NES with Javascript"
+  body: >
+    We have built a system that uses javascript to manipulate the physical RAM of an NES (Nintendo Entertainment System) while it is running, to arbitrarily read or write system memory. This enables new cheat codes, wacky ways to play games, investigations into how games work, and the ability to create external visuals from a game's data, such as collision detection or advanced HUDs (heads-up displays). Using a video mixer, we can even combine views to make augmented games. Our system has an easy to use interface, allowing the creation of javascript code to control game memory, and these scripts can be used without modification in an NES emulator that has had nodejs embedded into it.
+  bio: >
+
+- firstname: Todd Gandee & Glen Goodwin
+  lastname: 
+  visible: false
+  smurl: 
+  smtype: 
+  smhandle: 
+  title: "We are Hacks and Have Been Stealing Code for Years: A Time-Traveler’s Guide to Leveraging Community Code"
+  body: >
+    We have built a system that uses javascript to manipulate the physical RAM of an NES (Nintendo Entertainment System) while it is running, to arbitrarily read or write system memory. This enables new cheat codes, wacky ways to play games, investigations into how games work, and the ability to create external visuals from a game's data, such as collision detection or advanced HUDs (heads-up displays). Using a video mixer, we can even combine views to make augmented games. Our system has an easy to use interface, allowing the creation of javascript code to control game memory, and these scripts can be used without modification in an NES emulator that has had nodejs embedded into it.
+  bio: >
+    Todd: This pizza delivery boy turned programer has seen the highs, lows, highs, semi-lows, and highs again in the web world. Spanning a career from the dot-bust to now, Todd is a nerd in the truest sense. He is trying to learn woodworking, the accordion, and parenting all at the same time, while growing a ridiculous mustache. Working at Big Nerd Ranch, Todd is an instructor, team manager and engineer. He started his career in video production and flash animation which eventually led him to JavaScript and front-end web technologies. Todd is happiest delivering solutions where it improves lives, but you might catch him laughing about old flash projects for big cereal brands.
+    
+    Glen: At some point in his life Glen has been a burger jockey, a sailor, a princess, a glacier climber, a projectionist, a horror fiction writer, a ballerina, a cat audiologist, a grand master d&d champion, an electrician, a master frisbee handler, a starving poet, a hacker of things, the lead triangle player for the breakout boy band Liam Neeson Has Gas, and a little teapot. Of all these things he is most proud of his recent high score of 54,768 on Donkey Kong Junior. He believes that the ZX81 processor in the Timex Sinclair 1000 was the pinnacle of hardware engineering, that coding is an art form and an artist never explains his work, that everything should be questioned, and that life is too short to drink cheap beer. He lives halfway between Baltimore and Washington DC with his life partner Jennifer, two cats named Dolby and Escher, and is very, very, scared of ghosts, bees, and cooked spinach.
+

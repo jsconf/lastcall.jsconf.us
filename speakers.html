@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "JSConf US 2015 Speakers"
+title: "JSConf US Last Call Speakers"
 id: speakers
 ---
 <div class='container'>
@@ -20,7 +20,7 @@ id: speakers
     </a>
   {% endif %}
   </div>
-  <div class='pic'><img src='/img/speakers/{{speaker.lastname | downcase}}.jpg' height='100' width='100' alt='{{speaker.firstname}}  {{speaker.lastname}}'/></div>
+  <div class='pic'><img src='/img/speakers/{{speaker.lastname | downcase}}.png' height='100' width='100' alt='{{speaker.firstname}}  {{speaker.lastname}}'/></div>
   <div class='name'>
     <h3>{{speaker.firstname}} {{speaker.lastname}}</h3>
   </div>
@@ -29,8 +29,10 @@ id: speakers
     {{speaker.body | markdownify}}
   </div>
   <div class='bio'>
-    <div class='title'>Meet {{speaker.firstname}}</div>
-    {{speaker.bio | markdownify}}
+    {% if speaker.bio  %}
+      <div class='title'>Meet {{speaker.firstname}}</div>
+      {{speaker.bio | markdownify}}
+    {% endif %}
   </div>
 </div>
 </div>

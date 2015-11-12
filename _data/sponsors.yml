@@ -1,0 +1,143 @@
+- name: Microsoft
+  visible: false
+  short: microsoft
+  logo: microsoft.png
+  url: http://www.microsoft.com/
+  event: 
+  description: >
+    Founded in 1975, [Microsoft](http://www.microsoft.com/) (Nasdaq "MSFT") is
+    the worldwide leader in software, services, devices and solutions that help
+    people and businesses realize their full potential.
+
+- name: Bloomberg
+  visible: false
+  short: bloomberg
+  logo: bloomberg.png
+  url: http://www.bloomberglabs.com
+  event: 
+  description: >
+    [Bloomberg](http://www.bloomberglabs.com) technology helps drive the
+    world’s financial markets. We provide communications platforms, data,
+    analytics, trading platforms, news and information for the world’s
+    leading financial market participants. We deliver through our unrivaled
+    software, digital platforms, mobile applications and state of the art
+    hardware developed by Bloomberg technologists for Bloomberg customers.
+    Our over 3,000 technologists work to define, architect, build and deploy
+    complete systems and solutions that anticipate and fulfill our clients’
+    needs and market demands. We offer critical enterprise computing solutions
+    for the financial services industry to help organizations deliver, decipher
+    and manage data to meet their organizational needs and growing regulatory
+    requirements. As well, we are known for providing unique biometric security
+    to our customers for over a decade enabling them to access their service
+    securely from a desktop computer, mobile phone or tablet. We have provided
+    communications platforms, true electronic social networking and workflow
+    connectivity in the financial world for over two decades.
+
+- name: ETA
+  visible: true
+  short: eta
+  logo: eta.png
+  url: http://www.emergingtechnologyadvisors.com/
+  event:
+  description: >
+    [ETA](http://www.emergingtechnologyadvisors.com/) started as a team of technologists helping companies to solve complex
+    problems. Our love of all things technology didn't stop there — in our
+    spare time, we were building robots, creating developer events
+    ([JSConf](http://jsconf.us), [RobotsConf](http://robotsconf.com),
+    [NodeBots](http://nodebots.io), etc.), and helping kids. At the same
+    time, our clients started voicing concerns over the challenges of the
+    fast-evolving, high-tech 21<sup>st</sup>-century work environment -
+    and the need for a workforce that could keep pace. So the idea was
+    born: emerging technology consulting with fascinating education,
+    and help build or re-inspire the pipeline of talent that companies
+    need, while giving individuals the drive and skills to succeed.
+
+- name: bitHound
+  visible: true
+  short: bithound
+  logo: bithound.png
+  url: https://www.bithound.io/
+  event:
+  description: >
+    [bitHound](https://www.bithound.io/) identifies risks and priorities in your Node.js projects so you can focus on critical issues, save time, and ship with confidence.
+
+- name: IBM
+  visible: true
+  short: ibm
+  logo: ibm.png
+  url: http://www.ibm.com/us/en/
+  event: 
+  description: >
+    We’ve developed a lot of software in IBM’s 100+ year history, from punch
+    cards to core transaction processing to cognitive computing.
+
+    [IBM](http://www.ibm.com/us/en/) Bluemix is our open-technology cloud platform for developing and
+    deploying web and mobile applications. Developers can quickly build, deploy,
+    run, and manage applications with best of class services and infrastructure
+    components from IBM and third party providers.
+
+- name: jQuery
+  visible: true
+  short: jquery
+  logo: jquery.png
+  url: https://jquery.org
+  event: 
+  description: >
+    [The jQuery Foundation](https://jquery.org) provides a stable base of open governance, collaborative relationships and thriving communities. Innovation and stability are not mutually exclusive. By bringing together the latest in JavaScript advancements and the extended ecosystems of community driven projects, the jQuery Foundation provides the technology and guidance needed to navigate the world of open source JavaScript.
+
+- name: Pebble
+  visible: true
+  short: pebble
+  logo: pebble.png
+  url: https://getpebble.com/
+  event: 
+  description: >
+    [Pebble](https://getpebble.com/) is back again at JSConf! This year with the new Pebble Time watch,
+    breaking records again on Kickstarter. Just like its predecessors, the new
+    Pebble Time is water resistant, has an always on display, and up to a week
+    of battery life! The screen has been upgraded to support colors, the new
+    microphone is nifty, and the new timeline web APIs allow any web developer
+    to push events with notifications and actions to Pebble users. Writing apps
+    has never been so easy with our online IDE cloudpebble.net, complete with a
+    fully functional emulator, which supports C and JavaScript!
+
+- name: Pluralsight
+  visible: true
+  short: pluralsight
+  logo: pluralsight.png
+  url: http://www.pluralsight.com/
+  event:
+  description: >
+    [Pluralsight](http://www.pluralsight.com/) is the global leader in online
+    training for software developers, IT specialists and creative
+    technologists. With 3,700+ courses, Pluralsight serves as a career catalyst,
+    delivering hands-on learning for the most in-demand jobs of today.
+
+- name: SalesForce Pardot
+  visible: true
+  short: salesforce
+  logo: salesforce.png
+  url: http://www.pardot.com
+  event: 
+  description: >
+    [Pardot](http://www.pardot.com) is B2B marketing automation by Salesforce, a software-as-a-service application built for marketing and sales departments. Pardot engineers are innovating fast, solving big technical problems at scale, and maintaining the Pardot culture by being positive, supportive, and self-starting. A majority of Pardot's engineering team is based in our Atlanta office, with several engineers also working remotely. Salesforce is the fastest growing of the top 10 enterprise software companies, one of the World’s Most Innovative Companies according to Forbes, and one of Fortune’s 100 Best Companies to Work For seven years running, and we get to experience that energy and explosive growth as part of the Salesforce Ohana (family).
+
+- name: Telerik
+  visible: true
+  short: telerik
+  logo: telerik.png
+  url: http://www.telerik.com/
+  event: 
+  description: >
+    [Telerik](http://www.telerik.com/) empowers its customers to create compelling app experiences across
+    any screen. Our end-to- end platform uniquely combines industry-leading UI
+    tools with cloud services to simplify the entire app development lifecycle.
+    Telerik tools and services can be adopted individually or as a platform and
+    seamlessly integrated with other popular developer solutions. More than
+    130,000 customers from 40,000 organizations in 94 countries depend on
+    Telerik products, including more than 450 of the Fortune 500®, academic
+    institutions, governments and non-profits. For additional information about
+    Telerik, please visit [telerik.com](http://www.telerik.com/) or follow
+    [@telerik](https://twitter.com/telerik) on Twitter.
+
+
