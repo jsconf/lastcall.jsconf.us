@@ -180,9 +180,9 @@
 - firstname: Remy 
   lastname: Sharp
   visible: true
-  smurl: http://twitter.com/janecakemaster
+  smurl: http://twitter.com/rem
   smtype: twitter
-  smhandle: janecakemaster
+  smhandle: rem
   title: "The toxic side of free. Or: how I lost the love for my side project"
   body: >
     This is a 5 part story about (my side project and attempted full time project in 2014) "JS Bin" and the abuse that it's suffered over the last 7 years of being an open project. The stories include tales of spam, abuse from registered users and the impact on personal life, dealing with the process of taking money, and the pain (oh...the pain) and finally police involvement (from a casual planned DDoS, child pornography and terrorism).
