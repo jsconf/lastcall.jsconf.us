@@ -270,21 +270,21 @@
     
 
 - speakers:
-  - firstname: Dustin Long
-    lastname: 
-    smurl: 
-    smtype: 
-    smhandle: 
-  - firstname: Andrew Reitano
-    lastname: 
-    smurl: 
-    smtype: 
-    smhandle: 
-  visible: false
+  - firstname: Dustin
+    lastname: Long
+    smurl: https://twitter.com/dustmap
+    smtype: twitter
+    smhandle: dustmap
+  - firstname: Andrew
+    lastname: Reitano
+    smurl: https://twitter.com/batslyadams
+    smtype: twitter
+    smhandle: batslyadams
+  visible: true
   title: "Controlling the NES with Javascript"
   body: >
     We have built a system that uses javascript to manipulate the physical RAM of an NES (Nintendo Entertainment System) while it is running, to arbitrarily read or write system memory. This enables new cheat codes, wacky ways to play games, investigations into how games work, and the ability to create external visuals from a game's data, such as collision detection or advanced HUDs (heads-up displays). Using a video mixer, we can even combine views to make augmented games. Our system has an easy to use interface, allowing the creation of javascript code to control game memory, and these scripts can be used without modification in an NES emulator that has had nodejs embedded into it.
-  bio: >
+  bio:
 
 - speakers:
   - firstname: Todd
