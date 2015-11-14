@@ -289,20 +289,21 @@
 - speakers:
   - firstname: Todd
     lastname: Gandee
-    smurl:
-    smtype:
-    smhandle:
+    smurl: https://twitter.com/tgandee
+    smtype: twitter
+    smhandle: tgandee
   - firstname: Glen
     lastname:  Goodwin
-    smurl:
-    smtype:
-    smhandle:
-  visible: false
+    smurl: https://twitter.com/areinet
+    smtype: twitter
+    smhandle: areinet
+  visible: true
   title: "We are Hacks and Have Been Stealing Code for Years: A Time-Traveler’s Guide to Leveraging Community Code"
   body: >
     We have built a system that uses javascript to manipulate the physical RAM of an NES (Nintendo Entertainment System) while it is running, to arbitrarily read or write system memory. This enables new cheat codes, wacky ways to play games, investigations into how games work, and the ability to create external visuals from a game's data, such as collision detection or advanced HUDs (heads-up displays). Using a video mixer, we can even combine views to make augmented games. Our system has an easy to use interface, allowing the creation of javascript code to control game memory, and these scripts can be used without modification in an NES emulator that has had nodejs embedded into it.
   bio: >
-    Todd: This pizza delivery boy turned programer has seen the highs, lows, highs, semi-lows, and highs again in the web world. Spanning a career from the dot-bust to now, Todd is a nerd in the truest sense. He is trying to learn woodworking, the accordion, and parenting all at the same time, while growing a ridiculous mustache. Working at Big Nerd Ranch, Todd is an instructor, team manager and engineer. He started his career in video production and flash animation which eventually led him to JavaScript and front-end web technologies. Todd is happiest delivering solutions where it improves lives, but you might catch him laughing about old flash projects for big cereal brands.
-    
-    Glen: At some point in his life Glen has been a burger jockey, a sailor, a princess, a glacier climber, a projectionist, a horror fiction writer, a ballerina, a cat audiologist, a grand master d&d champion, an electrician, a master frisbee handler, a starving poet, a hacker of things, the lead triangle player for the breakout boy band Liam Neeson Has Gas, and a little teapot. Of all these things he is most proud of his recent high score of 54,768 on Donkey Kong Junior. He believes that the ZX81 processor in the Timex Sinclair 1000 was the pinnacle of hardware engineering, that coding is an art form and an artist never explains his work, that everything should be questioned, and that life is too short to drink cheap beer. He lives halfway between Baltimore and Washington DC with his life partner Jennifer, two cats named Dolby and Escher, and is very, very, scared of ghosts, bees, and cooked spinach.
+    **Todd:** This pizza delivery boy turned programer has seen the highs, lows, highs, semi-lows, and highs again in the web world. Spanning a career from the dot-bust to now, Todd is a nerd in the truest sense. He is trying to learn woodworking, the accordion, and parenting all at the same time, while growing a ridiculous mustache. Working at Big Nerd Ranch, Todd is an instructor, team manager and engineer. He started his career in video production and flash animation which eventually led him to JavaScript and front-end web technologies. Todd is happiest delivering solutions where it improves lives, but you might catch him laughing about old flash projects for big cereal brands.
+
+
+    **Glen:** At some point in his life Glen has been a burger jockey, a sailor, a princess, a glacier climber, a projectionist, a horror fiction writer, a ballerina, a cat audiologist, a grand master d&d champion, an electrician, a master frisbee handler, a starving poet, a hacker of things, the lead triangle player for the breakout boy band Liam Neeson Has Gas, and a little teapot. Of all these things he is most proud of his recent high score of 54,768 on Donkey Kong Junior. He believes that the ZX81 processor in the Timex Sinclair 1000 was the pinnacle of hardware engineering, that coding is an art form and an artist never explains his work, that everything should be questioned, and that life is too short to drink cheap beer. He lives halfway between Baltimore and Washington DC with his life partner Jennifer, two cats named Dolby and Escher, and is very, very, scared of ghosts, bees, and cooked spinach.
 
