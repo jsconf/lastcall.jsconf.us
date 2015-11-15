@@ -10,7 +10,7 @@
     people and businesses realize their full potential.
 
 - name: Bloomberg
-  visible: false
+  visible: true
   short: bloomberg
   logo: bloomberg.png
   url: http://www.bloomberglabs.com
@@ -140,4 +140,12 @@
     Telerik, please visit [telerik.com](http://www.telerik.com/) or follow
     [@telerik](https://twitter.com/telerik) on Twitter.
 
+
+- name: Zappos
+  visible: true
+  short: zappos
+  logo: zappos.png
+  url: http://www.zappos.com/
+  event: 
+  description:
 

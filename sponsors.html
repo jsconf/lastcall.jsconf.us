@@ -38,9 +38,11 @@ id: sponsors
     {% if sponsor.event %}
       <div class='component'>Sponsoring {{sponsor.event}}</div>
     {% endif %}
-    <div class='description'>
-      {{sponsor.description | markdownify}}
-    </div>
+    {% if sponsor.description %}
+      <div class='description'>
+        {{sponsor.description | markdownify}}
+      </div>
+    {% endif %}
   </div>
   {% endif %}
 {% endfor %}
