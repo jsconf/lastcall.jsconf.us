@@ -51,13 +51,14 @@
     smtype: twitter
     smhandle: linclark
   visible: true
-  title: "A cartoon guide to the wilds of React data handling"
+  title: "A cartoon guide to the wilds of data handling in React"
   body: >
-    There's a lot of confusion around the three main patterns or libraries for handling data in React applications: Flux, Redux, and Relay. People don't really understand how they work and how they relate to each other.  
+    I'm going to walk you through the wilds of data handling in react. I say “the wilds” because when you first look at the landscape, it seems to be overflowing with an untamed profusion of different options. It's hard to figure out why you might want to use any one in particular.
 
-    This talk uses cartoons to build metaphors. These metaphors help in reasoning about the different patterns and the way data flows through them.
+
+    When you look closer, you'll see that it's actually easier to navigate than you might think. You just need a good guide.
   bio: >
-    Lin Clark is a developer and code cartoonist; she stuffs her head full of coding minutiae and then turns it into cartoons for @codecartoons. Her current project is a book, A Cartoon Guide to React.js. In past lives she has been npm's dev star, a Drupal core module maintainer, and a contributor to many other projects. She spends her spare time futzing with new technologies and making games with animated stick figures.
+    Lin Clark is a code cartoonist; she stuffs her head full of coding minutiae and then turns it into @codecartoons. Her current project is a book, A Cartoon Guide to React.js. In her non-spare time, she is a senior engineer on Firefox developer tools.
     
 - speakers:
   - firstname: Patricia 
