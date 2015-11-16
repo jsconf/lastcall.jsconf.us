@@ -8,31 +8,50 @@ id: speakers
 <br/>
 <br/>
 <br/>
-{% for speaker in site.data.speakers %}
-{% if speaker.visible %}
+{% for talk in site.data.speakers %}
+{% if talk.visible %}
+{% assign lastnames = talk.speakers | map: 'lastname' %}
 <div class='col-md-12'>
-<div class='speaker clearfix' id='{{speaker.lastname | downcase}}'>
-  <div class='pull-right socialmedia'>
-  {% if speaker.smurl %}
-    <a href='{{speaker.smurl}}' class='{{speaker.smtype}}'>
-      <i class='fa fa-{{speaker.smtype}}-square'></i>
-      {{speaker.smhandle}}
-    </a>
-  {% endif %}
-  </div>
-  <div class='pic'><img src='/img/speakers/{{speaker.lastname | downcase}}.png' height='100' width='100' alt='{{speaker.firstname}}  {{speaker.lastname}}'/></div>
-  <div class='name'>
-    <h3>{{speaker.firstname}} {{speaker.lastname}}</h3>
-  </div>
-  <div class='talk'>
-    <div class='title'>{{speaker.title}}</div>
-    {{speaker.body | markdownify}}
-  </div>
-  <div class='bio'>
-    {% if speaker.bio  %}
-      <div class='title'>Meet {{speaker.firstname}}</div>
-      {{speaker.bio | markdownify}}
-    {% endif %}
+<div class='speaker clearfix' id='{{lastnames | join: '-' | downcase }}'>
+  <div class='container-fluid'>
+    <div class='col-sm-3'>
+      <div class='pic text-center'>
+      {% for speaker in talk.speakers %}
+        <img src='/img/speakers/{{speaker.lastname | downcase}}.png' height='100' width='100' alt='{{speaker.firstname}}  {{speaker.lastname}}'/>
+      {% endfor %}
+      </div>
+    </div>
+    <div class='col-sm-9'>
+      <div class='container-fluid clearfix'>
+        {% for speaker in talk.speakers %}
+          <div class='col-sm-8'>
+            <h3>{{speaker.firstname}} {{speaker.lastname}}</h3>
+          </div>
+          <div class='col-sm-4 text-right'>
+            {% if speaker.smurl %}
+            <a href='{{speaker.smurl}}' class='{{speaker.smtype}}'>
+              <i class='fa fa-{{speaker.smtype}}-square'></i>
+              {{speaker.smhandle}}
+            </a>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+      <div class='container-fluid'>
+        <div class='col-sm-12'>
+          <div class='talk'>
+            <h4 class='title'>{{talk.title}}</h4>
+            {{talk.body | markdownify}}
+          </div>
+          <div class='bio'>
+            {% if talk.bio %}
+              <div class='title'>Meet {{talk.firstname}}</div>
+              {{talk.bio | markdownify}}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 </div>

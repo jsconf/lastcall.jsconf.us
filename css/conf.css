@@ -225,11 +225,11 @@ display:inline-block;
 .sponsors { margin-top: 1.5em; }
 
 .speaker, .sponsor {padding-bottom: 32px; margin-bottom: 32px; border-bottom: 1px solid #246f84;}
-.speaker .bio, .speaker .talk, .speaker .name { margin-left: 134px;}
 
 /*.sponsor .name, .sponsor .description { margin-left: 220px;}*/
 .speaker .pic { float: left;}
 .speaker .pic img {
+margin-bottom: 16px;
 -webkit-box-shadow: 4px 4px 25px 0px rgba(50, 50, 50, 0.54);
 -moz-box-shadow:    4px 4px 25px 0px rgba(50, 50, 50, 0.54);
 box-shadow:         4px 4px 25px 0px rgba(50, 50, 50, 0.54);
