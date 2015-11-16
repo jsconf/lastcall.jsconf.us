@@ -168,9 +168,9 @@
     smtype: twitter
     smhandle: jedschmidt
   visible: true
-  title: "Declarative Web App Compiler"
+  title: "Exploring Relational UIs"
   body: >
-    I'm going to take the current trends in client frameworks to their logical extreme. We'll get rid of async and mutability entirely by creating a compiler that takes a single digraph representing every possible DOM state, and returns an HTML document with all the CSS, HTML, and JS needed to accomplish the states you've defined.
+    Join Jed as he takes the current trends of composability in client frameworks to their logical extreme. Together you'll dumpster dive through forgotten corners of JavaScript, eschewing async and mutability entirely to create a compiler that takes turns the DOM you crave into the CSS, HTML, and JS you need.
   bio: >
     Jed is a JavaScript developer and recovering Japanese translator based out of Brooklyn, NYC. When he's not geeking out on the mobile web at UNIQLO, he enjoys running BrooklynJS and singing tight barbershop harmonies.
 
