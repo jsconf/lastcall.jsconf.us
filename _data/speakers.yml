@@ -1,17 +1,18 @@
 - speakers:
-  - firstname: Earle  
+  - firstname: Earle
     lastname: Castledine
     smurl: http://twitter.com/mrspeaker
     smtype: twitter
     smhandle: mrspeaker
   visible: true
-  title: "Painting by Functions"
+  title: "Painting by functions: Rich WebGL widgets with functional rendering"
   body: >
     An evolutionary tale, beginning at the birth of the original graphics APIs - caught between the functional and imperative worlds. Low level, and difficult to learn, but lighting-fast and capable of spectacular results.
 
     You'll see:
-    * The original, horribly stateful, OpenGL API
-    * ...and the GLSL shaders that run on top of it: functional, and powerful, and often beautiful.
+
+      * The original, horribly stateful, OpenGL API
+      * ...and the GLSL shaders that run on top of it: functional, and powerful, and often beautiful.
 
     OpenGL then spawned its JavaScript-enabled offspring, WebGL: impressive, but built on an arcane and unwieldy paradigm.
     It's available in all modern browsers - desktop and mobile - yet lies mostly dormant thanks to its stateful and scary API.
@@ -19,11 +20,13 @@
     But hark! The slow but unceasing rise of functional and reactive programming is the missing link - transforming WebGL into a slick and user-friendly powerhouse.
 
     You'll see:
-    * the stack-gl manifesto (and its core modules)
-    * gl-react and gl-react-native: adding stunning effects in a declarative manner
-    * UI widgets and components that are not possible with HTML5 Canvas and friends.
-    * ...all while wrangling it all with Rx.js streams.
-  bio:
+    
+      * the stack-gl manifesto (and its core modules)
+      * gl-react and gl-react-native: adding stunning effects in a declarative manner
+      * UI widgets and components that are not possible with HTML5 Canvas and friends.
+      * ...all while wrangling it all with Rx.js streams.
+  bio: >
+    Sporting a lifetime of experience on the Web of Hard Knocks, Earle Castledine (aka Mr Speaker) holds a keen interest in everything computery. Vice President of Engineering at Project September, author of the smash hit "jQuery, Novice to Ninja", and general JavaScript flâneur - he is equally happy in the dense foliage of back-end architecture, the rapid rivers of mobile apps and games, or the fluffy clouds of client-side interaction development.
 
 - speakers:
   - firstname: Amy 
