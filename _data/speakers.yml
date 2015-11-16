@@ -249,12 +249,13 @@
     smtype: twitter
     smhandle: tolmasky
   visible: true
-  title: "Transpiling in JS"
+  title: "The Browser Isn't Feature Complete"
   body: >
-    When we presented at JSConf we were the first (only?) language to be transpiled to JS (objj), now it has become the defacto way to ship cutting edge JS with ES6/7. At tonicdev.com we actually implement a number of really interesting code transformations to enable our nodes time traveling feature ( http://blog.tonicdev.com/2015/09/10/time-traveling-in-node.js-notebooks.html ), and it is intimately tied to the new async/await in ES7.
+    With the rise of native apps, native wrappers, and even standards development, the browser has taken on a more behind the scenes role in web page delivery. I’ll be discussing the implications of this, and a framework for thinking about the role of the browser in the next generation of web applications.
 
-    I'd love to discuss the tricks and difficulties in creating no-side-effect transpilations (can't create new variables in the transpiled code because they'd be observable if the user tries to eval!), "just in time" hoisting, etc.
-  bio:
+  bio: >
+    Francisco is a cofounder of tonicdev.com. He’s been hacking on web related technologies for years, from Mobile  Safari during his time at Apple on the original iPhone team, to one of  the first transpiled languages Objective-J and Cappuccino.
+
       
 - speakers:
   - firstname: Rachel 
