@@ -10,6 +10,7 @@ id: speakers
 <br/>
 {% for talk in site.data.speakers %}
 {% if talk.visible %}
+{% assign firstnames = talk.speakers | map: 'firstname' %}
 {% assign lastnames = talk.speakers | map: 'lastname' %}
 <div class='col-md-12'>
 <div class='speaker clearfix' id='{{lastnames | join: '-' | downcase }}'>
@@ -45,7 +46,7 @@ id: speakers
           </div>
           <div class='bio'>
             {% if talk.bio %}
-              <div class='title'>Meet {{talk.firstname}}</div>
+              <div class='title'>Meet {{firstnames | array_to_sentence_string }}</div>
               {{talk.bio | markdownify}}
             {% endif %}
           </div>
