@@ -14,14 +14,14 @@ id: speakers
 <div class='col-md-12'>
 <div class='speaker clearfix' id='{{lastnames | join: '-' | downcase }}'>
   <div class='container-fluid'>
-    <div class='col-sm-3'>
+    <div class='col-sm-2'>
       <div class='pic text-center'>
       {% for speaker in talk.speakers %}
         <img src='/img/speakers/{{speaker.lastname | downcase}}.png' height='100' width='100' alt='{{speaker.firstname}}  {{speaker.lastname}}'/>
       {% endfor %}
       </div>
     </div>
-    <div class='col-sm-9'>
+    <div class='col-sm-10'>
       <div class='container-fluid clearfix'>
         {% for speaker in talk.speakers %}
           <div class='col-sm-8'>
