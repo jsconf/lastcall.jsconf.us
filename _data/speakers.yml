@@ -83,11 +83,11 @@
     smtype: twitter
     smhandle: janecakemaster
   visible: false
-  title: ""
+  title: "Conquering Fears"
   body: >
-    
+    Conquering fears of inadequacy while enabling people to write dope poetry with each other. Basically, the struggles of working on a project alone, how to combine your interests to make something interesting for you to work on, and how to execute and spread the word.
   bio: >
-    
+    Jane is a front end developer at Baublebar. She is usually eating too much, at karaoke, falling (not failing) gracefully, and /or dancing with herself. She prefers chillaxing in the sun (hey poolconf) to walks on the beach and mojitos to piña coladas. Shoutout to fellow speaker Charlie who invited her to her first JavaScript conference, which led to her first BoroJS, which led her to JSConf 2015 (🏼 for life), and now here on this speaker list. Her motto is LIFE IS SO CRAZY WOW
 - speakers:
   - firstname: Jan 
     lastname: Lehnardt
@@ -277,9 +277,9 @@
 - speakers:
   - firstname: Dustin
     lastname: Long
-    smurl: https://twitter.com/dustmap
+    smurl: https://twitter.com/dustmop
     smtype: twitter
-    smhandle: dustmap
+    smhandle: dustmop
   - firstname: Andrew
     lastname: Reitano
     smurl: https://twitter.com/batslyadams
