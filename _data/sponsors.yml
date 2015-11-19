@@ -85,6 +85,19 @@
   description: >
     [The jQuery Foundation](https://jquery.org) provides a stable base of open governance, collaborative relationships and thriving communities. Innovation and stability are not mutually exclusive. By bringing together the latest in JavaScript advancements and the extended ecosystems of community driven projects, the jQuery Foundation provides the technology and guidance needed to navigate the world of open source JavaScript.
 
+
+- name: Opbeat
+  visible: true
+  short: opbeat
+  logo: opbeat.png
+  url: https://opbeat.com
+  event: 
+  description: >
+   Opbeat is the application monitoring platform built for developers. Opbeat integrates with Git and combines performance metrics, release tracking, error logging and mobile alerts into a single simple service; we make monitoring and debugging your production apps much faster and your code better. 
+
+   Opbeat will be sponsoring the coffee at JSConf, and will be recognisable by their coffee-pot t-shirts. Swing by for a sneak-peak of our Node.JS beta.
+   
+   
 - name: Pebble
   visible: true
   short: pebble
