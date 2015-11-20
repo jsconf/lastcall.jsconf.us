@@ -141,17 +141,8 @@
   logo: telerik.png
   url: http://www.telerik.com/
   event: 
-  description: >
-    [Telerik](http://www.telerik.com/) empowers its customers to create compelling app experiences across
-    any screen. Our end-to- end platform uniquely combines industry-leading UI
-    tools with cloud services to simplify the entire app development lifecycle.
-    Telerik tools and services can be adopted individually or as a platform and
-    seamlessly integrated with other popular developer solutions. More than
-    130,000 customers from 40,000 organizations in 94 countries depend on
-    Telerik products, including more than 450 of the Fortune 500®, academic
-    institutions, governments and non-profits. For additional information about
-    Telerik, please visit [telerik.com](http://www.telerik.com/) or follow
-    [@telerik](https://twitter.com/telerik) on Twitter.
+  description: >    
+    Our mission is to take the complexity and limits out of the process of application development with a cloud-first platform that leverages widely used technology standards. A community of 1.7 million developers and 130,000 customers is a testament to our commitment to this mission. Visit us at http://www.telerik.com/nativescript.
 
 
 - name: Zappos
