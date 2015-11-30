@@ -59,16 +59,45 @@ id: speakers
 {% endif %}
 {% endfor %}
 
-{% for speaker in site.data.trackb %}
-{% if speaker.visible %}
+{% for talk in site.data.trackb %}
+{% if talk.visible %}
+{% assign firstnames = talk.speakers | map: 'firstname' %}
+{% assign lastnames = talk.speakers | map: 'lastname' %}
 <div class='col-md-12'>
-<div class='speaker clearfix' id='{{speaker.lastname | downcase}}'>
-  <div class='name'>
-    <h3>{{speaker.firstname}} {{speaker.lastname}}</h3>
-  </div>
-  <div class='talk'>
-    <div class='title'>{{speaker.title}}</div>
-    {{speaker.body | markdownify}}
+<div class='speaker clearfix' id='{{lastnames | join: '-' | split: ' ' | join: '-' | downcase }}'>
+  <div class='container-fluid'>
+    <div class='col-sm-2'></div>
+    <div class='col-sm-10'>
+      <div class='container-fluid clearfix'>
+        {% for speaker in talk.speakers %}
+          <div class='col-sm-8'>
+            <h3>{{speaker.firstname}} {{speaker.lastname}}</h3>
+          </div>
+          <div class='col-sm-4 text-right'>
+            {% if speaker.smurl %}
+            <a href='{{speaker.smurl}}' class='{{speaker.smtype}}'>
+              <i class='fa fa-{{speaker.smtype}}-square'></i>
+              {{speaker.smhandle}}
+            </a>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+      <div class='container-fluid'>
+        <div class='col-sm-12'>
+          <div class='talk'>
+            <h4 class='title'>{{talk.title}}</h4>
+            {{talk.body | markdownify}}
+          </div>
+          <div class='bio'>
+            {% if talk.bio %}
+              <div class='title'>Meet {{firstnames | array_to_sentence_string }}</div>
+              {{talk.bio | markdownify}}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 </div>

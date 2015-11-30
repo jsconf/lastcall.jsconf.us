@@ -1,0 +1,118 @@
+- speakers:
+  - firstname: Heiko
+    lastname: Behrens
+  visible: true
+  title: JS on Pebble, Pebble in JS
+  body: >
+    What if you could run JS directly on the Pebble Smartwatch? What if you could run Pebble apps directly in the browser and program it with JS? There are a lot of interesting projects that deal with embedded devices and C/JS interoperability such as Espruino, JerryScript, Emscripten, or cheerp - let's do it all and see what happens to real firmware and real watches.
+
+- speakers:
+  - firstname: Kris
+    lastname: Borchers
+  visible: true
+  title: Open Source is Hard
+  body: >
+    Many of you contribute to or run open source projects so let's have a discussion about the difficulties you face. Brian LeRoux and Kris Borchers will lead a discussion around the difficulties of running open source projects and how things like open foundations, open governance and collaborative ecosystems currently help ease that burden and will look for thoughts and perspectives about what more they could do for your projects.
+
+- speakers:
+  - firstname: David
+    lastname: Calhoun
+  visible: true
+  title: Philosophy and JavaScript
+  body: >
+    Philosophy has been around for orders of magnitude more time than JavaScript, but they both turn out to be similar in interesting ways. The goal of this talk is to figure out if we might be able to glean anything practical from comparing them, especially to soothe the mind of the old and tired developer who is still excited in building things, but has a major case of framework fatigue. Both JavaScript and Philosophy seem to be in a constant state of flux. Both have had trendy ideas that become the next bandwagon for folks to jump on. Both have personalities for people to laud and rally around. Both are used to build little ecosystems that become popular for a time, and then seem to fade out into obscurity. Both have ideas that are ancient but may still be surprisingly useful. Yes, we are developers, but more importantly we are human beings. As human beings, how are we supposed to deal with this impermanence and change? How are we supposed to approach our work if we know it will be torn down soon in the years to come? What should our attitudes be so we can not go completely crazy?
+
+- speakers:
+  - firstname: Ron
+    lastname: Cohen
+  visible: true
+  title: Untitled
+  body: >
+
+- speakers:
+  - firstname: Patrick
+    lastname: Kettner
+  visible: true
+  title: Modern Websites for the Modern Web
+  body: >
+    It seems like new APIs for the web are released every week. It would be cool to be able to use them, but if you need to make websites for the average user, you won't be able to use them for years - right? Wrong. Patrick Kettner, the lead developer on Modernizr and PM for Microsoft Edge, will go over how creating feature rich and super fast front end applications, integrating over a dozen cutting edge web features, all while supporting even the oldest of web clients.
+
+- speakers:
+  - firstname: Rektide
+    lastname: de la Faye
+  visible: true
+  title: HTTP2 Push and WebPush
+  body: >
+    Using HTTP2 Push to syndicate all the things, with WebPush spec and a resource-oriented implementation.
+
+- speakers:
+  - firstname: Joey
+    lastname: Di Nardo
+  visible: true
+  title: Atomic Components - Managing Dynamic React Components using Atomic Design Principles
+  body: >
+    Designed by Brad Frost and Dave Olsen, atomic design is a wonderful “methodology for creating design systems” backed by Pattern Lab with five distinct levels or ‘building blocks’, which, when combined, create semantic, contextual relationships between interface objects. We’re going to explore how these organizing principles are a natural fit for building interfaces in React, and how with a few tweaks we can begin to contextualize entire interfaces semantically and intuitively.
+
+- speakers:
+  - firstname: Tim
+    lastname: Doherty
+  visible: true
+  title: Treating Framework Fatigue With JavaScript
+  body: >
+    Do you suffer from Framework Fatigue? With so many new frameworks and libraries appearing on the scene, and disappearing just as quickly, you’re not alone. Symptoms include confusion, ambivalence, skepticism, and a reduced capacity for hype and marketing lingo. Talk with your mentor today and ask if JavaScript may be right for you. JavaScript is the basis for many popular web frameworks and libraries, and learning its nuances may help to reduce the symptoms of Framework Fatigue, and better inform your decision whether or not to use the Right Framework™. Side effects may include: language-level skills, increased confidence, better problem solving ability, and knowing what “this” is. Occasionally, JavaScript users have reported a desire to write their own framework or abandon frameworks altogether, although this is rare. This talk will focus on the importance of a solid JavaScript foundation - especially with enhancements introduced in ES 2015 - before diving headfirst into the newest fashionable framework. Too often, strong developers come to the table with a golden framework hammer, and soon everything looks like a nail. A strong grasp of the JavaScript language and its host environment can help better inform you of the hows and whys of a given framework design, while making your skills – and your code – more portable between frameworks.
+
+- speakers:
+  - firstname: Daniel
+    lastname: Harden
+  visible: true
+  title: JavaScript in Space, or There and Back Again
+  body: >
+    Somewhere in the middle of the Mojave desert, a group of engineers try to launch a JavaScript-powered weather balloon to the edge of space. Along the way they learn about ham radios, explosions, and THE POWER OF FRIENDSHIP.
+
+- speakers:
+  - firstname: Kevin
+    lastname: Old
+  visible: true
+  title: Debugging Impostor Syndrome
+  body: >
+    Impostor syndrome is rampant in our industry. I'll introduce the topic and share tips and techniques I've gathered over the years for dealing with the day to day challenges.
+
+- speakers:
+  - firstname: Carlos
+    lastname: Perez
+  visible: true
+  title: Knock, knock, who's there? Designer.
+  body: >
+    Designer, who? Uh huh. That's how it can feel sometimes for designers sitting on the sidelines of the dev process. ​ I'll share some insights on how to encourage and welcome your designers into the dev process to build more thoughtful products. The reality is that it's not difficult to do, but it is hard to do it well. This talk will share how we do it at bitHound and cover topics such as: ​ - How to plan sprints to include design - How to use Pull Requests to keep everyone on the same page - The old-school tool that works surprisingly well - Whether or not there is such a thing as too much crossover - And... why JavaScript is the perfect language to help bridge the gap.
+
+- speakers:
+  - firstname: Ben
+    lastname: Rondeau
+  visible: true
+  title: i18n via Front-end & Back-end JS
+  body: >
+    Critical for accessibility and an open web, internationalization (i18n) is a highly important yet missing feature in many web applications today. While this process has been cumbersome in the past and options limited, this is not the case in today's development space. This session will cover the principles and implementation of i18n standards using both front-end and back-end JS tools.
+
+- speakers:
+  - firstname: Malte
+    lastname: Ubl
+  visible: true
+  title: Make the web great again
+  body: >
+    This talk will present a new perspective into what makes many websites slow and how to fix it.
+
+- speakers:
+  - firstname: Thomas
+    lastname: Watson
+  visible: true
+  title: Emulating printers
+  body: >
+    How to get into trouble emulating a printer using noting but Node.js
+
+- speakers:
+  - firstname: Travis
+    lastname: Webb
+  visible: true
+  title: I'm not qualified to run a software company, AND SO CAN YOU!
+  body: >
+    Careers in open source software.
