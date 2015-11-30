@@ -3,7 +3,7 @@
   short: microsoft
   logo: microsoft.png
   url: http://www.microsoft.com/
-  event: 
+  event:
   description: >
     Founded in 1975, [Microsoft](http://www.microsoft.com/) (Nasdaq "MSFT") is
     the worldwide leader in software, services, devices and solutions that help
@@ -14,7 +14,7 @@
   short: bloomberg
   logo: bloomberg.png
   url: http://www.bloomberglabs.com
-  event: 
+  event:
   description: >
     [Bloomberg](http://www.bloomberglabs.com) technology helps drive the
     world’s financial markets. We provide communications platforms, data,
@@ -66,7 +66,7 @@
   short: ibm
   logo: ibm.png
   url: http://www.ibm.com/us/en/
-  event: 
+  event:
   description: >
     We’ve developed a lot of software in IBM’s 100+ year history, from punch
     cards to core transaction processing to cognitive computing.
@@ -81,7 +81,7 @@
   short: jquery
   logo: jquery.png
   url: https://jquery.org
-  event: 
+  event:
   description: >
     [The jQuery Foundation](https://jquery.org) provides a stable base of open governance, collaborative relationships and thriving communities. Innovation and stability are not mutually exclusive. By bringing together the latest in JavaScript advancements and the extended ecosystems of community driven projects, the jQuery Foundation provides the technology and guidance needed to navigate the world of open source JavaScript.
 
@@ -91,19 +91,19 @@
   short: opbeat
   logo: opbeat.png
   url: https://opbeat.com
-  event: 
+  event:
   description: >
-   Opbeat is the application monitoring platform built for developers. Opbeat integrates with Git and combines performance metrics, release tracking, error logging and mobile alerts into a single simple service; we make monitoring and debugging your production apps much faster and your code better. 
+   Opbeat is the application monitoring platform built for developers. Opbeat integrates with Git and combines performance metrics, release tracking, error logging and mobile alerts into a single simple service; we make monitoring and debugging your production apps much faster and your code better.
 
    Opbeat will be sponsoring the coffee at JSConf, and will be recognisable by their coffee-pot t-shirts. Swing by for a sneak-peak of our Node.JS beta.
-   
-   
+
+
 - name: Pebble
   visible: true
   short: pebble
   logo: pebble.png
   url: https://getpebble.com/
-  event: 
+  event:
   description: >
     [Pebble](https://getpebble.com/) is back again at JSConf! This year with the new Pebble Time watch,
     breaking records again on Kickstarter. Just like its predecessors, the new
@@ -130,8 +130,8 @@
   visible: true
   short: salesforce
   logo: salesforce.png
-  url: http://www.pardot.com
-  event: 
+  url: https://twitter.com/pardoteng
+  event:
   description: >
     [Pardot](http://www.pardot.com) is B2B marketing automation by Salesforce, a software-as-a-service application built for marketing and sales departments. Pardot engineers are innovating fast, solving big technical problems at scale, and maintaining the Pardot culture by being positive, supportive, and self-starting. A majority of Pardot's engineering team is based in our Atlanta office, with several engineers also working remotely. Salesforce is the fastest growing of the top 10 enterprise software companies, one of the World’s Most Innovative Companies according to Forbes, and one of Fortune’s 100 Best Companies to Work For seven years running, and we get to experience that energy and explosive growth as part of the Salesforce Ohana (family).
 
@@ -140,8 +140,8 @@
   short: telerik
   logo: telerik.png
   url: http://www.telerik.com/
-  event: 
-  description: >    
+  event:
+  description: >
     Our mission is to take the complexity and limits out of the process of application development with a cloud-first platform that leverages widely used technology standards. A community of 1.7 million developers and 130,000 customers is a testament to our commitment to this mission. Visit us at [http://www.telerik.com/nativescript](http://www.telerik.com/nativescript).
 
 
@@ -150,6 +150,5 @@
   short: zappos
   logo: zappos.png
   url: http://www.zappos.com/
-  event: 
+  event:
   description:
-
