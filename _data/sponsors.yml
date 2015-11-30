@@ -1,14 +1,3 @@
-- name: Microsoft
-  visible: false
-  short: microsoft
-  logo: microsoft.png
-  url: http://www.microsoft.com/
-  event:
-  description: >
-    Founded in 1975, [Microsoft](http://www.microsoft.com/) (Nasdaq "MSFT") is
-    the worldwide leader in software, services, devices and solutions that help
-    people and businesses realize their full potential.
-
 - name: Bloomberg
   visible: true
   short: bloomberg
@@ -32,6 +21,17 @@
     securely from a desktop computer, mobile phone or tablet. We have provided
     communications platforms, true electronic social networking and workflow
     connectivity in the financial world for over two decades.
+
+- name: Microsoft
+  visible: true
+  short: microsoft
+  logo: microsoft.png
+  url: http://www.microsoft.com/
+  event:
+  description: >
+    Founded in 1975, [Microsoft](http://www.microsoft.com/) (Nasdaq "MSFT") is
+    the worldwide leader in software, services, devices and solutions that help
+    people and businesses realize their full potential.
 
 - name: ETA
   visible: true
