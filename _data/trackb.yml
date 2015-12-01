@@ -116,3 +116,19 @@
   title: I'm not qualified to run a software company, AND SO CAN YOU!
   body: >
     Careers in open source software.
+
+- speakers:
+  - firstname: Justin
+    lastname: Meyer
+  visible: true
+  title: High Performance Apps with DoneJS
+  body: >
+    This sentence is wasting your time before you get to useful information. How annoying is that? Annoyed is how your users feel if they can’t see their content immediately while too much JavaScript and CSS downloads too slowly. This talk shows how the recently released DoneJS framework makes it easy to build fast single page applications that are: - server side rendered - progressively loaded - use content delivery networks We will discover how DoneJS solves these problems while building a simple real-time chat application. As a bonus, I will show how to build the chat application to a mobile and desktop application so all three versions of the app can chat together. If we have time, I might even turn on worker thread rendering.
+
+- speakers:
+  - firstname: Chris
+    lastname: Gomez
+  visible: true
+  title: Faster filtered arrays in CanJS
+  body: >
+    Almost every JS application today - even TodoMVC - has a "Filter by" feature requirement. Unfortunately filtering an array is an O(n) operation - meaning every item in the array needs to be evaluated. This is true regardless of whether an item in the filtered array is added, removed, or changed. Add to that the overhead of DOM manipulations and repaints and you'll find that filtering a DOM bound array is a costly operation. Can we break through the O(n) barrier? Join me to learn how and why the CanJS team set out to beat the "O(n)" speed limit imposed by filtered arrays and what we've learned since.
