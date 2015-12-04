@@ -1,6 +1,10 @@
 - speakers:
   - firstname: Heiko
     lastname: Behrens
+    smurl: http://twitter.com/hbehrens
+    smtype: twitter
+    smhandle: hbehrens
+    image: behrens.png
   visible: true
   title: JS on Pebble, Pebble in JS
   body: >
